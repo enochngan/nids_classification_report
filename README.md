@@ -1,4 +1,4 @@
-# nids_classification_report
+# nids-classification-report
 
 ## Introduction:
 The classification report for this project evaluates the performance of the Snort Network Intrusion Detection System (NIDS) in distinguishing between malicious and legitimate traffic across various scenarios. The report highlights key metrics such as precision, recall, F1-score, and accuracy to quantify the effectiveness of predefined Snort rules in detecting simulated cyberattacks and normal user activities.
